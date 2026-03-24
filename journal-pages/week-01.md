@@ -37,7 +37,7 @@ After, we traded with another group and tried to figure out what their data visu
 We wrote our answer on sticky notes, seen in the image below.
 
 ![Our Answers to the Questions](https://github.com/gwon422/DES240-Gemma/blob/bb809f876eadae8acd004f096216a451f9acc6f7/assets/week-01/Data%201.jpg)
-*Our Answers to the Questions*
+*Our Group Answers to the Questions*
 
 ## Independent Data Portrait
 
