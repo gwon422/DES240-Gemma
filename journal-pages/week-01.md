@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Week 01- Experiment 1: Data Drawings
+# Week 01 - Experiment 1: Data Drawings
 
 [← Back to Home](../index.md)
 
