@@ -50,7 +50,7 @@ Looking at the data I wanted to represent how much and the type of liquid intake
 
 I used Copilot to help me vibe code, as I knew how I wanted to display my data, I just needed help getting there, and making a few edits to the code given.
 
-assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4 
+<video controls src="../assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4" title="Copilot Vibe Coding"></video>
 
 Step 2: Design your interactive visualisation
 
