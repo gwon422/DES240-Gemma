@@ -48,15 +48,20 @@ For this task I took the data that I collected for Experiment 1 and decided whic
 
 Looking at the data I wanted to represent how much and the type of liquid intake on different days in my p5.js sketch and decided to do this by using diffent colour stamps to represent the different types of drinks I drank and stamp them in a line to form columns to represent different days.and have people interact by stamping them in a line to form columns.
 
+![p5.js Sketch](<../assets/week-02/W2 Individual.png>)
+*p5.j3 Sketch for personal data visualisation*
+
 I used Copilot to help me vibe code, as I knew how I wanted to display my data, I just needed help getting there, and making a few edits to the code given.
 
 <video controls src="../assets/week-02/Microsoft 365 Copilot 2026-03-27 10-52-30.mp4" title="Copilot Vibe Coding"></video>
+*Copilot Vibe Coding* OpenAI. (2026). Copilot (Mar 20 version) [Large language model]. https://m365.cloud.microsoft/chat
 
 Step 2: Design your interactive visualisation
 
-
-
 For this step I make it so that people can interact with my  p5.js sketch using buttons and a stamp to add their own data to give the viewer control and add/make their own data.
+
+<video controls src="../assets/week-02/Interactivity.mp4" title="Interactive Data Demo"></video>
+*Interactive Data Demo*
 
 The hand‑drawn data portrait from week 1 captures a fixed record of daily drink consumption, carefully mapping time, quantity, and drink type across the week. While this format makes the structure and chronology of the data clear, it remains static and also wasted a lot of space. 
 
@@ -69,4 +74,8 @@ When a viewer clicks a button, the colour change is immediate, making the relati
 
 Step 3: Iterate
 
-Test your sketch. Show it to someone else and observe how they use it. Refine the interaction based on what you observe.
+
+I tested this sketch on a friend, and watched them try to use it, after I realised that I didn't provide instructions and extra information on the interaction, so I added that to the interaction.
+
+![Improvements to the Interaction](../assets/week-02/Improvements.png)
+*Improvements to the Interaction*
